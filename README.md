@@ -2,6 +2,8 @@
 
 <img src = "right" alt="coding.gif" style="border-radius:20px" src="https://github.com/ilkaytech/ilkaytech/blob/main/assets/coding.gif?raw=true" width="180" />
 
+<img src = "https://github.com/ilkaytech/ilkaytech/blob/main/assets/coding.gif?raw=true">
+
 I'm a computer science student who is passionate about writing code, solving problems and building software.
 
 - 💻 I ~like~ **love** coding
