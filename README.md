@@ -50,7 +50,7 @@ I am a programmer who is passionate about writing code, problem solving, softwar
 
 <!--END_SECTION:waka-->
 
-## 📫 How to reach me
+## 📫 Contact me
 
 <p
 
