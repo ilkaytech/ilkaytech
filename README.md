@@ -2,9 +2,9 @@
 
 <img src = "https://github.com/ilkaytech/ilkaytech/blob/main/coding.gif?raw=true">
 
-I'm a computer science student who is passionate about writing code, solving problems and building software.
+I am a programmer who is passionate about writing code, problem solving, software development.
 
-- 💻 I ~ like ~ **love** coding
+- 💻 I like **love** coding
 - 📗 I’m currently learning full stack development
 - 🔧 I’m looking to collaborate on opensource and group projects.
 - 🧑‍💻 I want to become a software engineer
