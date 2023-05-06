@@ -1,4 +1,4 @@
-# Hello there, I'm İlkay 👋
+# Hello, I'm İlkay 👋
 
 <img src = "https://github.com/ilkaytech/ilkaytech/blob/main/coding.gif?raw=true">
 
