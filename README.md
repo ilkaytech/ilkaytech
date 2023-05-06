@@ -1,6 +1,6 @@
 # Hello there, I'm İlkay 👋
 
-<img src = "right" alt="coding.gif" style="border-radius:20px" src="https://github.com/ilkaytech/ilkaytech/blob/main/assets/coding.gif?raw=true" width="180" />
+<img src = "right" alt="coding.gif" style="border-radius:20px" src="https://github.com/ilkaytech/ilkaytech/blob/main/coding.gif?raw=true" width="180" />
 
 <img src = "https://github.com/ilkaytech/ilkaytech/blob/main/assets/coding.gif?raw=true">
 
