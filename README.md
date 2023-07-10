@@ -34,8 +34,6 @@ I am a programmer who is passionate about writing code, problem solving, softwar
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
 </p>
 
-## 📕 I'm currently learning these technologies
-
 <br>
 <!--START_SECTION:waka-->
 
