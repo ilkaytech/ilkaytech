@@ -5,7 +5,7 @@
 I am a programmer who is passionate about writing code, problem solving, software development.
 
 - 💻 I **like** coding
-- 📗 I’m currently learning full stack development
+<br>
 - 🔧 I’m looking to collaborate on opensource and group projects.
 
 
