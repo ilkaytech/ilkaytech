@@ -7,7 +7,7 @@ I am a programmer who is passionate about writing code, problem solving, softwar
 - 💻 I **like** coding
 - 📗 I’m currently learning full stack development
 - 🔧 I’m looking to collaborate on opensource and group projects.
-- 🧑‍💻 I want to become a software engineer
+
 
 <br>
 
