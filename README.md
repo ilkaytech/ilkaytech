@@ -9,7 +9,7 @@ I am a programmer who is passionate about writing code, problem solving, softwar
 - 🌱 I’m currently exploring new things in technology.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ I love to play with new cli tools and technologies.
+- ⚡ I love to play with new technologies.
   <br>
 
 ## 🛠️ My Tech Stack
