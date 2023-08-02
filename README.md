@@ -1,15 +1,16 @@
-# Hello There, I'm İlkay 👋
+# Hi, I'm İlkay Öztürk, a Full Stack Developer 👋
 
 <img src = "https://github.com/ilkaytech/ilkaytech/blob/main/coding.gif?raw=true">
 
 I am a programmer who is passionate about writing code, problem solving, software development.
 
-- 💻 I **like** coding
-<br>
-- 🔧 I’m looking to collaborate on opensource and group projects.
+### Talking about Personal Stuffs
 
-
-<br>
+- 🌱 I’m currently exploring new things in technology.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ I love to play with new cli tools and technologies.
+  <br>
 
 ## 🛠️ My Tech Stack
 
