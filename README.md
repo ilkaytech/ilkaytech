@@ -1,4 +1,4 @@
-### Hi, I'm ilkay, a Full Stack Developer 👋
+## Hi, I'm ilkay, a Full Stack Developer 👋
 
 <img src = "https://github.com/ilkaytech/ilkaytech/blob/main/coding.gif?raw=true">
 
