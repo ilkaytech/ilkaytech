@@ -4,7 +4,7 @@
 
 ### I am a programmer who is passionate about writing code, problem solving, software development.
 
-- 👨‍💻 My website at [www.ilkaytech.com](https://ilkaytech.netlify.app)
+- 👨‍💻 My website at [www.ilkaytech.com](https://ilkaytech.vercel.app)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
